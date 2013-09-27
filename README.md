@@ -1,4 +1,4 @@
-la-county-trails-maps
+la-county-trail-maps
 =====================
 
 Geospatial data of trails managed or planned by the [Los Angeles County Department of Parks and Recreation](http://parks.lacounty.gov/wps/portal/dpr)
