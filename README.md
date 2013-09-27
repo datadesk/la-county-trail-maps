@@ -3,9 +3,10 @@ la-county-trails-maps
 
 Geospatial data of trails managed or planned by the [Los Angeles County Department of Parks and Recreation](http://parks.lacounty.gov/wps/portal/dpr)
 
-## Sources
+## Source
 
-A California Public Records Act request filed by Ben Welsh. Provided in SHP file format. Converted to GeoJSON.
+Data acquired via a [California Public Records Act request](https://github.com/datadesk/la-county-trails-maps/blob/master/CPRA.pdf) filed by Ben Welsh, 
+provided in SHP file format and converted to GeoJSON.
 
 ## Notice
 
